@@ -1,0 +1,19 @@
+c:\users\yassergersy\documents\visual studio 2013\Projects\ProxySwitcher\ProxySwitcher\bin\Debug\ProxySwitcher.exe
+c:\users\yassergersy\documents\visual studio 2013\Projects\ProxySwitcher\ProxySwitcher\bin\Debug\ProxySwitcher.pdb
+c:\users\yassergersy\documents\visual studio 2013\Projects\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.csprojResolveAssemblyReference.cache
+c:\users\yassergersy\documents\visual studio 2013\Projects\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.Form1.resources
+c:\users\yassergersy\documents\visual studio 2013\Projects\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.Properties.Resources.resources
+c:\users\yassergersy\documents\visual studio 2013\Projects\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.csproj.GenerateResource.Cache
+c:\users\yassergersy\documents\visual studio 2013\Projects\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.exe
+c:\users\yassergersy\documents\visual studio 2013\Projects\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.pdb
+c:\users\yassergersy\documents\visual studio 2013\Projects\ProxySwitcher\ProxySwitcher\bin\Debug\ProxySwitcher.exe.config
+c:\users\yassergersy\documents\visual studio 2013\Projects\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.ProfileSelectorFrm.resources
+E:\Dropbox\Projects\ProxySwitcher\ProxySwitcher\bin\Debug\ProxySwitcher.exe.config
+E:\Dropbox\Projects\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.exe
+E:\Dropbox\Projects\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.pdb
+E:\Dropbox\Projects\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.csprojResolveAssemblyReference.cache
+E:\Dropbox\Projects\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.Form1.resources
+E:\Dropbox\Projects\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.Properties.Resources.resources
+E:\Dropbox\Projects\ProxySwitcher\ProxySwitcher\obj\Debug\ProxySwitcher.csproj.GenerateResource.Cache
+E:\Dropbox\Projects\ProxySwitcher\ProxySwitcher\bin\Debug\ProxySwitcher.exe
+E:\Dropbox\Projects\ProxySwitcher\ProxySwitcher\bin\Debug\ProxySwitcher.pdb
