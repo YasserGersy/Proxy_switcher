@@ -1,4 +1,4 @@
-# Proxy_switcher
+<div class="container clearfix" ># Proxy_switcher <div>
 Small tool to easily change or disable proxy in windows OS
 
 Tested on 
@@ -12,4 +12,6 @@ Screen Shot
 <img src='http://i.imgur.com/EDJUbSk.png' />
 <br/>
 icon
+<br/>
+
 <img src='http://i.imgur.com/XQfA4kZ.jpg' />
