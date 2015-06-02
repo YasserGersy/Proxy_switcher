@@ -6,7 +6,7 @@ Tested on Windows 8 / 8.1 / 7 / Vista / XP
 
 
 <br /><h2>Download </h2>
-<a href='http://www.softpedia.com/get/Network-Tools/IP-Tools/System-Proxy-Switcher.shtml' >SoftPedia</a>
+<a href='http://www.softpedia.com/get/Network-Tools/IP-Tools/System-Proxy-Switcher.shtml' >SoftPedia</a></br>
 <a href='https://www.dropbox.com/s/qxj89wo6f6lvil2/Proxy_Switcher___Setup__V_1.rar?dl=0 '> DropBox  <a>
 <br />
 <h2>Appearance</h2>
